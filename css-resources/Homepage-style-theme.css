@@ -1,0 +1,81 @@
+/*///////////////////////////////////////////////////////////////////////////////////////////////////*/
+/*////////////////////////Lilian Coffee theme template made by Brandon A.P//////////////////////////*/
+/*/////////////////////////////////////////////////////////////////////////////////////////////////*/
+
+@import url('https://fonts.googleapis.com/css?family=Cambay|Quicksand&display=swap');
+
+*{ margin: 0; padding: 0; -webkit-box-sizing: border-box; -ms-box-sizing: border-box; -moz-box-sizing: border-box; -o-box-sizing: border-box; box-sizing: border-box;}html, body, input, textarea{
+ /*font-family: 'Cambay', sans-serif;*/ font-family: 'Quicksand', sans-serif;} header{ width: 100%; height: 100px; position: absolute; display: flex; align-items: center; justify-content: center; z-index: 100;
+} .super-container-float-section{ width: 100%; height: 40px; max-width: 1560px; display: flex;} .super-container-float-section .logo-website-section{ width: 25%; height: 40px;
+display: flex; align-items: center;} .super-container-float-section .logo-website-section .svg-brand-website{ width: 180px; height: 36px; background-image: url(../brand-images/logo/svg/lilian-coffee-logo-white.svg);
+background-repeat: no-repeat; background-size: contain; background-position: center;} .super-container-float-section .burger-toggle-button{ display: none;}
+.super-container-float-section .navigation-container-div{ width: 75%; height: 40px; display: flex;} .navigation-container-div .navigation-bar-navbar-primary{ width: 67%; height: 40px;
+display: flex; align-items: center; justify-content: center;} .navigation-container-div .navigation-bar-navbar-primary .flex-block-nav-option-list{ display: flex;}
+.navigation-container-div .navigation-bar-navbar-primary .flex-block-nav-option-list li{ list-style: none;} .navigation-container-div .navigation-bar-navbar-primary .flex-block-nav-option-list a{ text-decoration: none;
+color: #ffffff; padding: 15px 15px; transition: 0.3s ease;} .navigation-container-div .navigation-bar-navbar-primary .flex-block-nav-option-list a:hover{ opacity: 0.6; transition: 0.3s ease;
+}.navigation-container-div .navigation-bar-navbar-secondary{ width: 33%; height: 40px;} .navigation-container-div .navigation-bar-navbar-secondary .flex-block-nav-option-list{ float: right; display: flex;
+margin: 8px 0px;} .navigation-container-div .navigation-bar-navbar-secondary .flex-block-nav-option-list li{ list-style: none;} .navigation-container-div .navigation-bar-navbar-secondary .flex-block-nav-option-list a{
+text-decoration: none; color: #ffffff; padding: 15px 15px; transition: 0.3s ease;} .navigation-container-div .navigation-bar-navbar-secondary .flex-block-nav-option-list a:hover{ opacity: 0.6;
+transition: 0.3s ease;}
+.navigation-container-div .navigation-bar-navbar-secondary .flex-block-nav-option-list .pd-l-null{ padding-left: 0px;} .navigation-container-div .navigation-bar-navbar-secondary .flex-block-nav-option-list .pd-r-null{
+padding-right: 0px;}.responsive-social-bar-menu-navigation{ display: none;}
+.first-container-header-image{ width: 100%; height: 890px; background-image: url(../media/bg-images/coffee-shop-1209863_1920.jpg); background-repeat: no-repeat; background-position: center; background-size: cover;
+background-color: #333333;} .first-container-header-image .bg-transparent-container{ width: 100%; height: 890px; position: absolute; background: #0000007a;}
+.bg-transparent-container .title-button-container{ width: 1000px; height: auto; margin: auto; margin-top: 410px;} .bg-transparent-container .title-button-container h1{
+font-size: 44px; text-align: center; color: #ffffff;} .bg-transparent-container .title-button-container .title-heart{ color: #d43030;} .bg-transparent-container .title-button-container .btn-shop-section{
+width: 1000px; height: 60px; margin-top: 210px; display: flex; align-items: center; justify-content: center;}
+.bg-transparent-container .title-button-container .btn-shop-section a{ text-decoration: none; color: #1a1a1a; font-size: 18px; width: 200px; height: 52px; display: flex; align-items: center; justify-content: center;
+border: 1px solid #ffffff; background: #ffffff; transition: 0.2s ease;} .bg-transparent-container .title-button-container .btn-shop-section a:hover{
+color: #1a1a1a; border: 1px solid #dfdfdf; background: #dfdfdf; transition: 0.2s ease;}
+.bg-transparent-container .title-button-container .btn-shop-section a:focus{ color: #1a1a1a; border: 1px solid #dfdfdf; background: #dfdfdf; transition: 0.2s ease;} .first-title{ width: 100%;
+height: 220px; display: flex; align-items: center; justify-content: center; background: #eeeeee;}
+.first-title h1{ font-size: 44px;} .photos-coffee-grid-site{ width: 100%; margin: auto; margin-top: 30px; height: auto; min-height: 1080px; max-width: 1560px;} .photos-coffee-grid-site{ display: grid; grid-gap: 30px;
+grid-template-columns: repeat(3, 1fr); grid-template-rows: repeat(2, 1fr);} .photos-coffee-grid-site .css-grid-element{ grid-template-columns: minmax(300px 1fr);} .photos-coffee-grid-site .css-grid-element-first{
+background-image: url(../media/bg-images/coffee-991836_1280.jpg); background-repeat: no-repeat; background-position: center; background-size: cover;} .photos-coffee-grid-site .css-grid-element-second{
+background-image: url(../media/bg-images/coffee-1291656_1280.jpg); background-repeat: no-repeat; background-position: center; background-size: cover;}
+.photos-coffee-grid-site .css-grid-element-third{ background-image: url(../media/bg-images/coffee-2589754_1280.jpg); background-repeat: no-repeat; background-position: center; background-size: cover;}
+.photos-coffee-grid-site .css-grid-element-fourth{ background-image: url(../media/bg-images/coffee-316578_1280.jpg); background-repeat: no-repeat; background-position: center; background-size: cover;}
+.photos-coffee-grid-site .css-grid-element-fifth{ background-image: url(../media/bg-images/brewed-coffee-1836168_1280.jpg); background-repeat: no-repeat; background-position: center; background-size: cover;}
+.photos-coffee-grid-site .css-grid-element-sixth{ background-image: url(../media/bg-images/morning-819362_1280.jpg); background-repeat: no-repeat; background-position: center; background-size: cover;}.go-to-menu-section{
+width: 100%; height: 60px; max-width: 350px; margin: auto; display: flex; align-items: center; justify-content: center; margin-top: 60px;}.go-to-menu-section .go-to-menu-button{ text-decoration: none;
+color: #1a1a1a; font-size: 18px; width: 200px; height: 52px; border: 1px solid #73400d; display: flex; align-items: center; justify-content: center; transition: 0.2s ease;} .go-to-menu-section .go-to-menu-button:hover{
+color: #ffffff; border: 1px solid #73400d; background: #73400d;} .go-to-menu-section .go-to-menu-button:focus{ color: #ffffff; border: 1px solid #73400d; background: #73400d;}
+.second-title{ width: 100%; height: 220px; display: flex; align-items: center; justify-content: center; background: #eeeeee; margin-top: 160px;}.second-title h1{ font-size: 44px;} .go-about-lilian-coffee-grid-section{
+width: 100%; height: auto; min-height: 1000px; margin: auto; margin-top: 30px; max-width: 1560px; display: grid; grid-gap: 30px; grid-template-columns: repeat(2, 1fr); grid-template-rows: repeat(2, 1fr);}
+.about-lilian-grid-element{ grid-template-columns: minmax(300px 1fr);} .go-about-lilian-coffee-grid-section .about-lilian-grid-element-first{ grid-row-start: 1; grid-row-end: 3;
+background-image: url(../media/bg-images/people-2594770_1280.jpg); background-repeat: no-repeat; background-position: center; background-size: cover; }.go-about-lilian-coffee-grid-section .about-lilian-grid-element-second{
+background-image: url(../media/bg-images/cup-of-coffee-1280537_1280.jpg); background-repeat: no-repeat; background-position: center; background-size: cover;}
+.go-about-lilian-coffee-grid-section .about-lilian-grid-element-third{ background-image: url(../media/bg-images/coffee-shop-1209863_1920.jpg); background-repeat: no-repeat; background-position: center;
+background-size: cover;} .see-more-lilian-coffee-section{ width: 100%; height: 60px; max-width: 350px; margin: auto; display: flex; align-items: center; justify-content: center; margin-top: 60px;}
+.see-more-lilian-coffee-section .see-more-l-c-button{ text-decoration: none; color: #ffffff; font-size: 18px; width: 200px; height: 52px; border: 1px solid #1a1a1a; background: #1a1a1a; display: flex;
+align-items: center; justify-content: center; transition: 0.2s ease;} .see-more-lilian-coffee-section .see-more-l-c-button:hover{ border: 1px solid #000000; background: #000000; transition: 0.2s ease;
+}.see-more-lilian-coffee-section .see-more-l-c-button:focus{ border: 1px solid #000000; background: #000000; transition: 0.2s ease;} .third-title{ width: 100%; height: 220px; display: flex; align-items: center;
+justify-content: center; background: #eeeeee; margin-top: 160px;} .third-title h1{ font-size: 44px;} .form-contact-last-section{ width: 100%; height: auto; max-width: 1325px; margin: auto;
+margin-top: 80px; margin-bottom: 110px; display: flex;} .form-contact-last-section .contact-us-img-container{ width: 35%; height: auto;}
+.form-contact-last-section .contact-us-img-container .lilian-coffee-image-contact{ width: 380px; height: 76px; background-image: url(../brand-images/logo/png/lilian-coffee-png-image-black.png);
+background-repeat: no-repeat; background-size: contain;} .form-contact-last-section .form-send-message{ width: 65%; height: auto;}.form-contact-last-section .form-send-message input{ padding: 0px 15px; font-size: 17px;
+border: 1px solid #1a1a1a;} .form-contact-last-section .form-send-message input:focus{ border: 1px solid transparent; box-shadow: 0px 2px 15px #00000021;} .form-contact-last-section .form-send-message #name-field{
+width: 44%; height: 55px; margin-right: 30px;}.form-contact-last-section .form-send-message #second-name-field{ width: 52%; height: 55px;} .form-contact-last-section .form-send-message #email-field{
+width: 100%; height: 55px; margin-top: 30px;} .form-contact-last-section .form-send-message #message-text-area{ width: 100%; min-width: 100%; min-height: 380px; max-width: 100%; margin-top: 30px; padding: 15px;
+font-size: 17px; border: 1px solid #1a1a1a;}
+.form-contact-last-section .form-send-message #message-text-area:focus{ border: 1px solid transparent; box-shadow: 0px 2px 15px #00000021;} .form-contact-last-section .send-button-container{ width: 100%;
+height: 65px; display: flex; align-items: center; margin-top: 30px;} .form-contact-last-section .send-button-container .send-button{ text-decoration: none; color: #1a1a1a; font-size: 18px; width: 200px; height: 52px;
+border: 1px solid #73400d; background: transparent; display: flex; align-items: center; justify-content: center; cursor: pointer; transition: 0.2s ease;}
+.form-contact-last-section .send-button-container .send-button:hover{ color: #ffffff; background: #73400d; transition: 0.2s ease;} .form-contact-last-section .send-button-container .send-button:focus{
+color: #ffffff; background: #73400d; transition: 0.2s ease;} footer{ width: 100%; height: auto; min-height: 410px; position: absolute; background: #1a1a1a; display: flex; align-items: center;
+justify-content: center;}.super-container-footer-items{ width: 100%; height: auto; max-width: 1200px; display: block;} .super-container-footer-items .lilian-coffee-icon-heart-svg-section{ width: 100%; height: 50px;
+display: flex; align-items: center; justify-content: center; margin-bottom: 65px;} .super-container-footer-items .lilian-coffee-icon-heart-svg-section a{ width: 50px; height: 50px;
+background-image: url(../brand-images/icon/svg/lilian-coffee-icon-white.svg); background-repeat: no-repeat; background-size: contain; background-position: center;}
+.super-container-footer-items .social-bar-link-items{ width: 100%; height: 50px; display: flex; align-items: center; justify-content: center; margin-bottom: 50px;}
+.super-container-footer-items .social-bar-link-items .footer-option-list{ display: flex;} .super-container-footer-items .social-bar-link-items .footer-option-list li{ list-style: none;}
+.super-container-footer-items .social-bar-link-items .footer-option-list a{ text-decoration: none; font-size: 40px; padding: 0px 22px; transition: 0.4s ease;} .super-container-footer-items .social-bar-link-items .footer-option-list .pd-l-null{
+padding-left: 0px;} .super-container-footer-items .social-bar-link-items .footer-option-list .pd-r-null{ padding-right: 0px;} .super-container-footer-items .social-bar-link-items .footer-option-list a:hover{
+opacity: 0.4; transition: 0.4s ease;} .super-container-footer-items .lilian-coffee-copyright-website{ width: 100%; height: 25px; display: flex; align-items: center; justify-content: center;}
+.super-container-footer-items .lilian-coffee-copyright-website .footer-option-list li{ list-style: none;} .super-container-footer-items .lilian-coffee-copyright-website .footer-option-list h4{ color: #ffffff;
+font-weight: 100; cursor: default;}
+
+/*//////////////////////////////////////////////////////////////////////////////////////////////////*/
+/*/////////////////////////////////////////////////////////////////////////////////////////////////*/
+/*///////////////////Copyright 2020 Brandon A.P. Todos los derechos reservados////////////////////*/
+/*///////////////////////////////////////////////////////////////////////////////////////////////*/
+/*//////////////////////////////////////////////////////////////////////////////////////////////*/

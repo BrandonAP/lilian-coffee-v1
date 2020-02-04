@@ -1,0 +1,76 @@
+@font-face {
+  font-family: 'project-coffee';
+  src:  url('fonts/project-coffee.eot?rkolds');
+  src:  url('fonts/project-coffee.eot?rkolds#iefix') format('embedded-opentype'),
+    url('fonts/project-coffee.ttf?rkolds') format('truetype'),
+    url('fonts/project-coffee.woff?rkolds') format('woff'),
+    url('fonts/project-coffee.svg?rkolds#project-coffee') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'project-coffee' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-icon-facebook-circle .path1:before {
+  content: "\e900";
+  color: rgb(255, 255, 255);
+}
+.icon-icon-facebook-circle .path2:before {
+  content: "\e901";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+}
+.icon-icon-instagram-circle .path1:before {
+  content: "\e902";
+  color: rgb(255, 255, 255);
+}
+.icon-icon-instagram-circle .path2:before {
+  content: "\e903";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+}
+.icon-icon-instagram-circle .path3:before {
+  content: "\e905";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+}
+.icon-icon-instagram-circle .path4:before {
+  content: "\e906";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+}
+.icon-icon-twitter-circle .path1:before {
+  content: "\e907";
+  color: rgb(255, 255, 255);
+}
+.icon-icon-twitter-circle .path2:before {
+  content: "\e908";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+}
+.icon-facebook-icon:before {
+  content: "\e909";
+  color: #4172b8;
+}
+.icon-instagram-icon:before {
+  content: "\e904";
+  color: #e4405f;
+}
+.icon-twitter-icon:before {
+  content: "\e90a";
+  color: #1da1f2;
+}

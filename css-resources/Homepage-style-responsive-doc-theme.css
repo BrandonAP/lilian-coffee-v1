@@ -1,0 +1,113 @@
+@media only screen 
+and (min-width: 1280px) 
+and (max-width: 1487px){
+.super-container-float-section{ width: 100%; height: 40px; max-width: 90%; display: flex;} .photos-coffee-grid-site{ max-width: 90%; min-height: 900px;} .go-about-lilian-coffee-grid-section{ max-width: 90%;
+min-height: 800px;} .form-contact-last-section{ max-width: 85%;} .form-contact-last-section .contact-us-img-container .lilian-coffee-image-contact{ width: 320px; height: 66px;
+background-image: url(../brand-images/logo/png/lilian-coffee-png-image-black.png); background-repeat: no-repeat; background-size: contain;} .form-contact-last-section .form-send-message #name-field{ width: 44%;
+height: 55px; margin-right: 25px;}
+}
+@media only screen
+and (min-width: 690px) 
+and (max-width: 1280px){
+html, body{ overflow-x: hidden;} header{ height: 80px;} .super-container-float-section{ width: 100%; height: 40px; max-width: 90%; display: flex;} .super-container-float-section .logo-website-section{ width: 100%;
+height: 40px; display: flex; align-items: center; }.super-container-float-section .logo-website-section .svg-brand-website{ width: 140px; height: 30px; transition: 0.4s ease;}
+.super-container-float-section .logo-website-section .svg-brand-website:hover{ opacity: 0.5; transition: 0.4s ease;} .super-container-float-section .burger-toggle-button{ width: 27px; height: 26px; display: block;
+background: transparent; position: absolute; right: 5%; border: none; z-index: 8; cursor: pointer;} .super-container-float-section .burger-toggle-button .burger-icon-open-close{ width: 27px; height: 2px;
+position: absolute; top: 12px; left: 0; border-radius: 4px; -webkit-background: #ffffff; -ms-background: #ffffff; -moz-background: #ffffff; -o-background: #ffffff; background: #ffffff; transition: 0.4s ease;
+}.super-container-float-section .burger-toggle-button .burger-icon-open-close:before{ content: ""; width: 75%; height: 2px; position: absolute; top: -7px; left: 0; border-radius: 4px; -webkit-background: #ffffff;
+-ms-background: #ffffff; -moz-background: #ffffff; -o-background: #ffffff; background: #ffffff; transition: 0.4s ease;} .super-container-float-section .burger-toggle-button .burger-icon-open-close:after{
+ content: ""; width: 55%; height: 2px; position: absolute; top: 7px; left: 0; border-radius: 4px; -webkit-background: #ffffff; -ms-background: #ffffff; -moz-background: #ffffff; -o-background: #ffffff;
+background: #ffffff; transition: 0.4s ease;} .super-container-float-section .navigation-container-div{ position: absolute; top: 0%; right: -40%; width: 40%; height: 100vh; display: block; background: #ffffff;
+transition: 0.5s ease; overflow: auto; opacity: 0.5;}.navigation-container-div.active{ right: 0; transition: 0.4s ease; opacity: 1;}.navigation-container-div .navigation-bar-navbar-primary{ width: 80%;
+height: auto; margin: auto; margin-top: 10px;} .navigation-container-div .navigation-bar-navbar-primary .flex-block-nav-option-list{ display: block; width: 100%; height: auto;}
+.navigation-container-div .navigation-bar-navbar-primary .flex-block-nav-option-list a{ color: #1a1a1a; padding: 15px 0px; display: flex; font-size: 18px;}
+.navigation-container-div .navigation-bar-navbar-primary .flex-block-nav-option-list a:hover{ opacity: 1; color: #73400d;} .navigation-container-div .navigation-bar-navbar-secondary{ width: 80%; height: auto;
+margin: auto; display: block; margin-top: 50px;} .navigation-container-div .navigation-bar-navbar-secondary .flex-block-nav-option-list{ float: none; width: 100%; height: auto; display: block;}
+.navigation-container-div .navigation-bar-navbar-secondary .flex-block-nav-option-list a{ color: #1a1a1a; padding: 15px 0px; display: flex; font-size: 18px;}.navigation-container-div .navigation-bar-navbar-secondary .flex-block-nav-option-list a:hover{
+opacity: 1; color: #73400d;}.super-container-float-section .burger-toggle-button.toggle .burger-icon-open-close{ background: transparent; transition: 0.4s ease; }
+.super-container-float-section .burger-toggle-button.toggle .burger-icon-open-close:before{ top: 0; width: 80%; background: #1a1a1a; transform: rotate(45deg); transition: 0.4s ease;}
+.super-container-float-section .burger-toggle-button.toggle .burger-icon-open-close:after{ top: 0; width: 80%; background: #1a1a1a; transform: rotate(-45deg); transition: 0.4s ease;} .responsive-social-bar-menu-navigation{
+display: flex; width: 80%; height: 30px; margin: auto; margin-top: 50px; margin-bottom: 50px;}.responsive-social-bar-menu-navigation ul{ display: flex;} .responsive-social-bar-menu-navigation li{ list-style: none;}
+.responsive-social-bar-menu-navigation a{ text-decoration: none; font-size: 34px; margin-right: 7px; transition: 0.3s ease;}.responsive-social-bar-menu-navigation a:hover{ opacity: 0.4;
+transition: 0.3s ease;}.first-container-header-image{ width: 100%; height: 740px; background-image: url(../media/bg-images/coffee-shop-1209863_1920.jpg); background-repeat: no-repeat; background-position: center;
+background-size: cover; background-color: #333333;} .first-container-header-image .bg-transparent-container{ width: 100%; height: 740px; position: absolute; background: #0000007a;}
+.bg-transparent-container .title-button-container{ width: 90%; height: auto; margin: auto; margin-top: 370px;}.bg-transparent-container .title-button-container h1{ font-size: 37px; text-align: center;
+color: #ffffff;} .bg-transparent-container .title-button-container .title-heart{ color: #d43030;} .bg-transparent-container .title-button-container .btn-shop-section{  width: 90%; height: 60px; margin: auto;
+margin-top: 150px; display: flex; align-items: center; justify-content: center;}.bg-transparent-container .title-button-container .btn-shop-section a{ text-decoration: none; color: #1a1a1a; font-size: 15px; width: 170px;
+height: 47px; display: flex; align-items: center; justify-content: center; border: 1px solid #ffffff; background: #ffffff; transition: 0.2s ease;}
+.bg-transparent-container .title-button-container .btn-shop-section a:hover{ color: #1a1a1a; border: 1px solid #dfdfdf; background: #dfdfdf; transition: 0.2s ease;}
+.bg-transparent-container .title-button-container .btn-shop-section a:focus{ color: #1a1a1a; border: 1px solid #dfdfdf; background: #dfdfdf; transition: 0.2s ease;}.first-title{ width: 100%; height: 140px;
+text-align: center;} .first-title h1{ font-size: 37px;}.photos-coffee-grid-site{ width: 100%; margin: auto; margin-top: 30px; height: auto; min-height: 1350px; max-width: 90%;} .photos-coffee-grid-site{
+display: grid; grid-gap: 30px; grid-template-columns: repeat(2, 1fr); grid-template-rows: repeat(3, 1fr);}.photos-coffee-grid-site .css-grid-element{ grid-template-columns: minmax(300px 1fr);}
+.go-to-menu-section{ width: 100%; height: 60px; max-width: 90%; margin: auto; display: flex; align-items: center; justify-content: center; margin-top: 30px;} .go-to-menu-section .go-to-menu-button{ text-decoration: none;
+color: #1a1a1a; font-size: 15px; width: 170px; height: 47px; border: 1px solid #73400d; display: flex; align-items: center; justify-content: center; transition: 0.2s ease;} .second-title{ width: 100%;
+height: 140px; display: flex; align-items: center; justify-content: center; background: #eeeeee; margin-top: 100px;} .second-title h1{ font-size: 37px;} .go-about-lilian-coffee-grid-section{ width: 100%;
+height: auto; min-height: 800px; margin: auto; margin-top: 30px; max-width: 90%; display: grid; grid-gap: 30px; grid-template-columns: repeat(2, 1fr); grid-template-rows: repeat(2, 1fr);} .about-lilian-grid-element{
+grid-template-columns: minmax(300px 1fr);} .see-more-lilian-coffee-section{ width: 100%; height: 60px; max-width: 90%; margin: auto; display: flex; align-items: center; justify-content: center; margin-top: 40px;}
+.see-more-lilian-coffee-section .see-more-l-c-button{ font-size: 15px; width: 170px; height: 47px;}.third-title{ width: 100%; height: 140px; display: flex; align-items: center; justify-content: center;
+background: #eeeeee; margin-top: 80px;}.third-title h1{ font-size: 37px;}.form-contact-last-section{ width: 100%; height: auto; max-width: 85%; margin: auto; margin-top: 50px; margin-bottom: 80px;
+display: flex;}.form-contact-last-section .contact-us-img-container{ width: 35%; display: flex; height: auto;}.form-contact-last-section .contact-us-img-container .lilian-coffee-image-contact{ width: 200px;
+height: 40px; background-image: url(../brand-images/logo/png/lilian-coffee-png-image-black.png); background-repeat: no-repeat; background-size: contain;}.form-contact-last-section .form-send-message{ width: 65%;
+height: auto; margin-top: 00px;}.form-contact-last-section .form-send-message input{ font-size: 15px;}.form-contact-last-section .form-send-message #name-field{ width: 100%; height: 50px; margin-bottom: 30px;
+margin-right: 0px;}.form-contact-last-section .form-send-message #second-name-field{ width: 100%; height: 50px;}.form-contact-last-section .form-send-message #email-field{ width: 100%; height: 50px; margin-top: 30px;}
+.form-contact-last-section .form-send-message #message-text-area{ width: 100%; min-width: 100%; min-height: 420px; max-width: 100%; margin-top: 30px; padding: 15px; font-size: 15px;}
+.form-contact-last-section .send-button-container{ width: 100%; height: 50px; display: flex; align-items: center; margin-top: 30px;}.form-contact-last-section .send-button-container .send-button{ font-size: 15px;
+width: 170px; height: 47px;}
+}
+@media only screen
+and (min-width: 300px) 
+and (max-width: 690px){
+html, body{ overflow-x: hidden;} header{ height: 60px;} .super-container-float-section{ width: 100%; height: 40px; max-width: 90%; display: flex;} .super-container-float-section .logo-website-section{ width: 100%;
+height: 40px; display: flex; align-items: center;}.super-container-float-section .logo-website-section .svg-brand-website{ width: 140px; height: 30px; transition: 0.4s ease;}
+.super-container-float-section .logo-website-section .svg-brand-website:hover{ opacity: 0.5; transition: 0.4s ease;}.super-container-float-section .burger-toggle-button{ width: 27px; height: 26px; display: block;
+background: transparent; position: absolute; right: 5%; border: none; z-index: 8; cursor: pointer;} .super-container-float-section .burger-toggle-button .burger-icon-open-close{ width: 27px; height: 2px; position: absolute;
+top: 12px; left: 0; border-radius: 4px; -webkit-background: #ffffff; -ms-background: #ffffff; -moz-background: #ffffff; -o-background: #ffffff; background: #ffffff; transition: 0.4s ease;}
+.super-container-float-section .burger-toggle-button .burger-icon-open-close:before{ content: ""; width: 75%; height: 2px; position: absolute; top: -7px; left: 0; border-radius: 4px; -webkit-background: #ffffff;
+-ms-background: #ffffff; -moz-background: #ffffff; -o-background: #ffffff; background: #ffffff; transition: 0.4s ease;} .super-container-float-section .burger-toggle-button .burger-icon-open-close:after{
+content: ""; width: 55%; height: 2px; position: absolute; top: 7px; left: 0; border-radius: 4px; -webkit-background: #ffffff; -ms-background: #ffffff; -moz-background: #ffffff; -o-background: #ffffff;
+background: #ffffff; transition: 0.4s ease;} .super-container-float-section .navigation-container-div{ position: absolute; top: 0%; right: -100%; width: 100%; height: 100vh; display: block; background: #ffffff;
+transition: 0.5s ease; overflow: auto; opacity: 0.5;} .navigation-container-div.active{ right: 0; transition: 0.4s ease; opacity: 1;}.navigation-container-div .navigation-bar-navbar-primary{ width: 80%;
+height: auto; margin: auto; margin-top: 10px;}.navigation-container-div .navigation-bar-navbar-primary .flex-block-nav-option-list{ display: block; width: 100%; height: auto;}
+.navigation-container-div .navigation-bar-navbar-primary .flex-block-nav-option-list a{ color: #1a1a1a; padding: 15px 0px; display: flex; font-size: 18px;}
+.navigation-container-div .navigation-bar-navbar-primary .flex-block-nav-option-list a:hover{ opacity: 1; color: #73400d; }.navigation-container-div .navigation-bar-navbar-secondary{ width: 80%; height: auto;
+margin: auto; display: block; margin-top: 50px;}.navigation-container-div .navigation-bar-navbar-secondary .flex-block-nav-option-list{ float: none; width: 100%; height: auto; display: block;}
+.navigation-container-div .navigation-bar-navbar-secondary .flex-block-nav-option-list a{ color: #1a1a1a; padding: 15px 0px; display: flex; font-size: 18px;} .navigation-container-div .navigation-bar-navbar-secondary .flex-block-nav-option-list a:hover{
+opacity: 1; color: #73400d;} .super-container-float-section .burger-toggle-button.toggle .burger-icon-open-close{ background: transparent; transition: 0.4s ease;}
+.super-container-float-section .burger-toggle-button.toggle .burger-icon-open-close:before{ top: 0; width: 80%; background: #1a1a1a; transform: rotate(45deg); transition: 0.4s ease;}
+.super-container-float-section .burger-toggle-button.toggle .burger-icon-open-close:after{ top: 0; width: 80%; background: #1a1a1a; transform: rotate(-45deg); transition: 0.4s ease;}
+.responsive-social-bar-menu-navigation{ display: flex; width: 80%; height: 30px; margin: auto; margin-top: 50px; margin-bottom: 50px;} .responsive-social-bar-menu-navigation ul{ display: flex;}
+.responsive-social-bar-menu-navigation li{ list-style: none;} .responsive-social-bar-menu-navigation a{ text-decoration: none; font-size: 34px; margin-right: 7px; transition: 0.3s ease;}
+.responsive-social-bar-menu-navigation a:hover{ opacity: 0.4; transition: 0.3s ease;}.first-container-header-image{  width: 100%; height: 680px; background-image: url(../media/bg-images/coffee-shop-1209863_1920.jpg);
+background-repeat: no-repeat; background-position: center; background-size: cover; background-color: #333333;} .first-container-header-image .bg-transparent-container{ width: 100%;
+height: 680px; position: absolute; background: #0000007a;} .bg-transparent-container .title-button-container{ width: 90%; height: auto; margin: auto; margin-top: 240px;}
+.bg-transparent-container .title-button-container h1{ font-size: 30px; text-align: center; color: #ffffff;}.bg-transparent-container .title-button-container .title-heart{ color: #d43030;}
+.bg-transparent-container .title-button-container .btn-shop-section{ width: 90%; height: 60px; margin: auto; margin-top: 150px; display: flex; align-items: center; justify-content: center;}
+.bg-transparent-container .title-button-container .btn-shop-section a{ text-decoration: none; color: #1a1a1a; font-size: 15px; width: 150px; height: 42px; display: flex; align-items: center; justify-content: center;
+border: 1px solid #ffffff; background: #ffffff; transition: 0.2s ease;} .bg-transparent-container .title-button-container .btn-shop-section a:hover{ color: #1a1a1a; border: 1px solid #dfdfdf;
+background: #dfdfdf; transition: 0.2s ease;} .bg-transparent-container .title-button-container .btn-shop-section a:focus{ color: #1a1a1a; border: 1px solid #dfdfdf; background: #dfdfdf; transition: 0.2s ease;
+}.first-title{ width: 100%; height: 120px; text-align: center;}.first-title h1{ font-size: 30px;}.photos-coffee-grid-site{ width: 100%; margin: auto; margin-top: 20px; height: auto; min-height: 1780px;
+max-width: 90%;} .photos-coffee-grid-site{ display: grid; grid-gap: 20px; grid-template-columns: repeat(1, 1fr); grid-template-rows: repeat(6, 1fr);} .photos-coffee-grid-site .css-grid-element{
+grid-template-columns: minmax(300px 1fr);}.go-to-menu-section{ width: 100%; height: 60px; max-width: 90%; margin: auto; display: flex; align-items: center; justify-content: center; margin-top: 30px;}
+.go-to-menu-section .go-to-menu-button{ text-decoration: none; color: #1a1a1a; font-size: 15px; width: 150px; height: 42px; border: 1px solid #73400d; display: flex; align-items: center; justify-content: center;
+transition: 0.2s ease;} .go-to-menu-section .go-to-menu-button:hover{ color: #ffffff; border: 1px solid #73400d; background: #73400d;} .go-to-menu-section .go-to-menu-button:focus{ color: #ffffff;
+border: 1px solid #73400d; background: #73400d;}.second-title{ width: 100%; height: 120px; display: flex; align-items: center; justify-content: center; background: #eeeeee; margin-top: 80px;} .second-title h1{
+font-size: 30px;} .go-about-lilian-coffee-grid-section{ width: 100%; height: auto; min-height: 1100px; margin: auto; margin-top: 20px; max-width: 90%; display: grid; grid-gap: 20px;
+grid-template-columns: repeat(1, 1fr); grid-template-rows: repeat(4, 1fr);}.about-lilian-grid-element{ grid-template-columns: minmax(300px 1fr);}.see-more-lilian-coffee-section{ width: 100%; height: 60px;
+max-width: 90%; margin: auto; display: flex; align-items: center; justify-content: center; margin-top: 30px;}.see-more-lilian-coffee-section .see-more-l-c-button{ font-size: 15px; width: 150px; height: 42px;}
+.third-title{ width: 100%; height: 120px; display: flex; align-items: center; justify-content: center; background: #eeeeee; margin-top: 80px;}.third-title h1{ font-size: 30px;} .form-contact-last-section{ width: 100%;
+height: auto; max-width: 85%; margin: auto; margin-top: 50px; margin-bottom: 80px; display: block;} .form-contact-last-section .contact-us-img-container{ width: 100%; display: flex; justify-content: center;
+height: auto;} .form-contact-last-section .contact-us-img-container .lilian-coffee-image-contact{  width: 220px; height: 46px; background-image: url(../brand-images/logo/png/lilian-coffee-png-image-black.png);
+background-repeat: no-repeat; background-size: contain;} .form-contact-last-section .form-send-message{ width: 100%; height: auto; margin-top: 30px;} .form-contact-last-section .form-send-message input{
+font-size: 15px;} .form-contact-last-section .form-send-message #name-field{ width: 100%; height: 40px; margin-bottom: 30px; margin-right: 0px;} .form-contact-last-section .form-send-message #second-name-field{
+width: 100%; height: 40px;} .form-contact-last-section .form-send-message #email-field{ width: 100%; height: 40px; margin-top: 30px;} .form-contact-last-section .form-send-message #message-text-area{  width: 100%;
+min-width: 100%; min-height: 420px; max-width: 100%; margin-top: 30px; padding: 15px; font-size: 15px;} .form-contact-last-section .send-button-container{ width: 100%; height: 50px; display: flex; align-items: center;
+justify-content: center; margin-top: 30px;} .form-contact-last-section .send-button-container .send-button{ font-size: 15px;width: 150px; height: 42px;}
+footer{ width: 100%; height: auto; min-height: 410px; position: absolute; background: #1a1a1a; display: flex; align-items: center; justify-content: center;} .super-container-footer-items{ width: 100%; height: auto;
+max-width: 90%; display: block;}
+.super-container-footer-items .lilian-coffee-icon-heart-svg-section{ width: 100%; height: 30px; display: flex; align-items: center; justify-content: center; margin-bottom: 45px;}
+.super-container-footer-items .lilian-coffee-icon-heart-svg-section a{ width: 30px; height: 30px; background-image: url(../brand-images/icon/svg/lilian-coffee-icon-white.svg); background-repeat: no-repeat;
+background-size: contain; background-position: center;}.super-container-footer-items .social-bar-link-items{ width: 100%; height: 30px; display: flex; align-items: center; justify-content: center;
+margin-bottom: 30px;}.super-container-footer-items .social-bar-link-items .footer-option-list a{ text-decoration: none; font-size: 27px; padding: 0px 18px; transition: 0.4s ease;}
+.super-container-footer-items .lilian-coffee-copyright-website{ width: 100%; height: 25px; display: flex; align-items: center; justify-content: center;}
+.super-container-footer-items .lilian-coffee-copyright-website .footer-option-list h4{ font-size: 14px;}
+}

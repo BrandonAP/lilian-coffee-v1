@@ -18,7 +18,7 @@ position: absolute; top: 12px; left: 0; border-radius: 4px; -webkit-background: 
 }.super-container-float-section .burger-toggle-button .burger-icon-open-close:before{ content: ""; width: 75%; height: 2px; position: absolute; top: -7px; left: 0; border-radius: 4px; -webkit-background: #ffffff;
 -ms-background: #ffffff; -moz-background: #ffffff; -o-background: #ffffff; background: #ffffff; transition: 0.4s ease;} .super-container-float-section .burger-toggle-button .burger-icon-open-close:after{
  content: ""; width: 55%; height: 2px; position: absolute; top: 7px; left: 0; border-radius: 4px; -webkit-background: #ffffff; -ms-background: #ffffff; -moz-background: #ffffff; -o-background: #ffffff;
-background: #ffffff; transition: 0.4s ease;} .super-container-float-section .navigation-container-div{ position: absolute; top: 0%; right: -40%; width: 40%; height: 100vh; display: block; background: #ffffff;
+background: #ffffff; transition: 0.4s ease;} .super-container-float-section .navigation-container-div{ position: fixed; top: 0%; right: -40%; width: 40%; height: 100vh; display: block; background: #ffffff;
 transition: 0.5s ease; overflow: auto; opacity: 0.5;}.navigation-container-div.active{ right: 0; transition: 0.4s ease; opacity: 1;}.navigation-container-div .navigation-bar-navbar-primary{ width: 80%;
 height: auto; margin: auto; margin-top: 10px;} .navigation-container-div .navigation-bar-navbar-primary .flex-block-nav-option-list{ display: block; width: 100%; height: auto;}
 .navigation-container-div .navigation-bar-navbar-primary .flex-block-nav-option-list a{ color: #1a1a1a; padding: 15px 0px; display: flex; font-size: 18px;}
@@ -66,7 +66,7 @@ top: 12px; left: 0; border-radius: 4px; -webkit-background: #ffffff; -ms-backgro
 .super-container-float-section .burger-toggle-button .burger-icon-open-close:before{ content: ""; width: 75%; height: 2px; position: absolute; top: -7px; left: 0; border-radius: 4px; -webkit-background: #ffffff;
 -ms-background: #ffffff; -moz-background: #ffffff; -o-background: #ffffff; background: #ffffff; transition: 0.4s ease;} .super-container-float-section .burger-toggle-button .burger-icon-open-close:after{
 content: ""; width: 55%; height: 2px; position: absolute; top: 7px; left: 0; border-radius: 4px; -webkit-background: #ffffff; -ms-background: #ffffff; -moz-background: #ffffff; -o-background: #ffffff;
-background: #ffffff; transition: 0.4s ease;} .super-container-float-section .navigation-container-div{ position: absolute; top: 0%; right: -100%; width: 100%; height: 100vh; display: block; background: #ffffff;
+background: #ffffff; transition: 0.4s ease;} .super-container-float-section .navigation-container-div{ position: fixed; top: 0%; right: -100%; width: 100%; height: 100vh; display: block; background: #ffffff;
 transition: 0.5s ease; overflow: auto; opacity: 0.5;} .navigation-container-div.active{ right: 0; transition: 0.4s ease; opacity: 1;}.navigation-container-div .navigation-bar-navbar-primary{ width: 80%;
 height: auto; margin: auto; margin-top: 10px;}.navigation-container-div .navigation-bar-navbar-primary .flex-block-nav-option-list{ display: block; width: 100%; height: auto;}
 .navigation-container-div .navigation-bar-navbar-primary .flex-block-nav-option-list a{ color: #1a1a1a; padding: 15px 0px; display: flex; font-size: 18px;}
